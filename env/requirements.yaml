@@ -13,3 +13,6 @@ dependencies:
 - name: jenkinsx-test-3
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jenkinsx-test-4
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
